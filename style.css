@@ -305,6 +305,7 @@ a:hover {
 
 .navbar-brand img[src$=svg] {
     min-width: 100px;
+    width: 100%;
 }
 
 .nav-center .navbar-brand img {
@@ -743,6 +744,7 @@ h4 {
 
 .portfolio-thumb {
     margin-bottom: 24px;
+    width: 100%;
 }
 
 .portfolio-row {
