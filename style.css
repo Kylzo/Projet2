@@ -725,7 +725,7 @@ h3 {
 }
 
 h1 {
-    color: #333333 !important;
+    color: White !important;
 }
 
 h4 {
@@ -778,6 +778,7 @@ h4 {
 
 .tc-white {
     color: white !important;
+    position: relative;
 }
 
 .btn-atomic-tangerine {
@@ -1091,4 +1092,12 @@ h4 {
 
 .client {
     font-size: 23px;
+}
+
+.contact_adress {
+    color: black !important;
+}
+
+.subtitle_page_deux {
+    color: white !important;
 }
