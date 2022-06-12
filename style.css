@@ -680,7 +680,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 18px;
 }
 
 .tight-width-whitespace {
@@ -708,12 +708,11 @@ p {
 }
 
 h2 {
-    font-size: 22px;
     line-height: 1.4em;
 }
 
 h3 {
-    font-size: 15px;
+    font-size: 18px;
     text-transform: uppercase;
     font-weight: 700;
     color: #333333 !important;
@@ -774,7 +773,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #364577;
 }
 
 .tc-white {
@@ -808,8 +807,8 @@ h4 {
 }
 
 .icon-dark-slate-blue {
-    color: #364577 !important;
-    border-color: #364577 !important;
+    color: black !important;
+    border-color: black !important;
 }
 
 .bg-dots-bg {
@@ -1078,4 +1077,18 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+}
+
+
+/*Ajout*/
+
+
+ .comment {
+    font-style: italic;
+    font-weight: 550;
+    font-size: 23px;
+}
+
+.client {
+    font-size: 23px;
 }
