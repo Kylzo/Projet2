@@ -1086,7 +1086,7 @@ h4 {
 /*Ajout*/
 
 
- .comment {
+.comment {
     font-style: italic;
     font-weight: 550;
     font-size: 23px;
@@ -1108,8 +1108,16 @@ h4 {
     .bg-banniere {
         background-image: url("img/agence-la-panthere-min.webp");
     }
-    
+
     .bg-presentation {
         background-image: url("img/image-de-presentation-min.webp");
+    }
+
+    .black-background {
+        padding: 0px 0px 0px 0px;
+    }
+
+    h2 {
+         line-height: 35px; 
     }
 }
